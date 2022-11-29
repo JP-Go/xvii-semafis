@@ -22,6 +22,17 @@ Código-fonte do site da 17ª edição da Semana da Matemática e Física do Ins
 - Next.js
 - MySQL
 
+## :wrench: Rodando o projeto
+
+Depois de clonar o projeto e entrar na pasta dele, basta rodar no seu terminal
+
+```bash
+npm run dev (ou yarn dev)
+```
+
+E um servidor local será aberto no endereço `http://localhost:3000`
+
+
 ## :hammer_and_pick: Contribuindo
 
 O workflow básico para contribuir com esse repositório é o seguinte:
