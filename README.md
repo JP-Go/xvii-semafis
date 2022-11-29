@@ -19,6 +19,8 @@ Código-fonte do site da 17ª edição da Semana da Matemática e Física do Ins
 - CSS3
 - Typescript
 - React
+- Next.js
+- MySQL
 
 ## :hammer_and_pick: Contribuindo
 
