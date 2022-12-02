@@ -44,6 +44,10 @@ O workflow básico para contribuir com esse repositório é o seguinte:
 
 ## :octocat: Contribuidores
 
+<a href="https://github.com/chicofreitas/xvii-semafis/graphs/contributors">
+  <img src="https://avatars.githubusercontent.com/u/82220070?s=96&v=4" />
+</a>
+
 <a href="https://github.com/JP-Go/xvii-semafis/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=JP-Go/xvii-semafis" />
 </a>
