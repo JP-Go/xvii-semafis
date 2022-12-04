@@ -27,6 +27,7 @@ Código-fonte do site da 17ª edição da Semana da Matemática e Física do Ins
 Depois de clonar o projeto e entrar na pasta dele, basta rodar no seu terminal
 
 ```bash
+npm install
 npm run dev (ou yarn dev)
 ```
 
